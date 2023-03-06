@@ -1,4 +1,4 @@
-require "strict"
+local require "strict"
 
 local art = "wolf3d"
 local map_size = 11
